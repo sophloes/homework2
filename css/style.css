@@ -10,7 +10,7 @@ h1{
 }
 h2{
     font-size: 30px;
-    text-shadow: 5px, 5px, 2px, #808080;
+    text-shadow: 5px 5px 2px #808080;
 }
 p{
     font-size: 24px;
@@ -40,7 +40,7 @@ div{
 }
 #yellow h2{
     color: #000000;
-    text-shadow: 5px, 5px, 2px, #c7e2c7
+    text-shadow: 5px 5px 2px #c7e2c7
 }
 #yellow p{
     color: #000000;
@@ -50,6 +50,6 @@ div{
 }
 footer p{
     text-align: right;
-    padding: 0px, 10px, 10px, 0px /*top, right, bottom, left*/
+    padding: 0px 10px 10px 0px /*top, right, bottom, left*/
 
 }
